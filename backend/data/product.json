@@ -1,1 +1,218 @@
-[]
+[
+  {
+    "name": "GeekVape Aegis X Kit",
+    "price": 89.99,
+    "description": "Puissant et robuste, le GeekVape Aegis X est un kit complet avec un écran OLED, capable de délivrer jusqu'à 200W. Compatible avec plusieurs types de réservoirs.",
+    "rating": 4.7,
+    "images": {
+      "public_id": "products/geekvape_aegis_x",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/geekvape_aegis_x_1200x1200.png"
+    },
+    "category": "Cigarettes électroniques",
+    "stock": 300
+  },
+  {
+    "name": "Vaporesso Gen S 220W",
+    "price": 74.99,
+    "description": "Le Vaporesso Gen S est un mod compact et puissant, capable de délivrer jusqu'à 220W avec une grande capacité de batterie et un chipset avancé.",
+    "rating": 4.6,
+    "images": {
+      "public_id": "products/vaporesso_gen_s",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/vaporesso_gen_s_1200x1200.png"
+    },
+    "category": "Cigarettes électroniques",
+    "stock": 150
+  },
+  {
+    "name": "SMOK Nord 4",
+    "price": 39.99,
+    "description": "Dispositif portable et ergonomique, le SMOK Nord 4 est idéal pour les vapoteurs à la recherche de simplicité et de performance.",
+    "rating": 4.5,
+    "images": {
+      "public_id": "products/smok_nord_4",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/smok_nord_4_1200x1200.png"
+    },
+    "category": "Cigarettes électroniques",
+    "stock": 200
+  },
+  {
+    "name": "VOOPOO Drag 3",
+    "price": 89.99,
+    "description": "Le VOOPOO Drag 3 offre une vape puissante et polyvalente avec son chipset GENE.FAN 2.0, parfait pour les vapoteurs confirmés.",
+    "rating": 4.8,
+    "images": {
+      "public_id": "products/voopoo_drag_3",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/voopoo_drag_3_1200x1200.png"
+    },
+    "category": "Cigarettes électroniques",
+    "stock": 120
+  },
+  {
+    "name": "Innokin Kroma-Z Pod Mod",
+    "price": 44.99,
+    "description": "Le Kroma-Z d'Innokin est un appareil compact et ergonomique, parfait pour les débutants et les utilisateurs confirmés. Il utilise une batterie de 3000mAh et des pods rechargeables.",
+    "rating": 4.4,
+    "images": {
+      "public_id": "products/innokin_kroma_z",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/innokin_kroma_z_1200x1200.png"
+    },
+    "category": "Cigarettes électroniques",
+    "stock": 400
+  },
+  {
+    "name": "Aspire Nautilus Prime X",
+    "price": 59.99,
+    "description": "Le Nautilus Prime X de Aspire est un kit compact et polyvalent offrant plusieurs modes de vape avec une autonomie longue durée grâce à sa batterie 18650 remplaçable.",
+    "rating": 4.6,
+    "images": {
+      "public_id": "products/aspire_nautilus_prime_x",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/aspire_nautilus_prime_x_1200x1200.png"
+    },
+    "category": "Cigarettes électroniques",
+    "stock": 250
+  },
+  {
+    "name": "Dinner Lady Lemon Tart",
+    "price": 19.99,
+    "description": "Un e-liquide gourmand avec des saveurs de tarte au citron et meringue. Parfait pour les amateurs de desserts sucrés.",
+    "rating": 4.8,
+    "images": {
+      "public_id": "products/dinner_lady_lemon_tart",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/dinner_lady_lemon_tart_1200x1200.png"
+    },
+    "category": "E-liquides",
+    "stock": 200
+  },
+  {
+    "name": "Nasty Juice Bad Blood",
+    "price": 17.99,
+    "description": "E-liquide au goût de cassis intense, parfait pour les amateurs de saveurs fruitées et rafraîchissantes.",
+    "rating": 4.7,
+    "images": {
+      "public_id": "products/nasty_juice_bad_blood",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/nasty_juice_bad_blood_1200x1200.png"
+    },
+    "category": "E-liquides",
+    "stock": 150
+  },
+  {
+    "name": "Twelve Monkeys Mangabeys",
+    "price": 22.99,
+    "description": "Un mélange exotique de mangue, d'ananas et de goyave, qui vous transporte dans les îles tropicales.",
+    "rating": 4.9,
+    "images": {
+      "public_id": "products/twelve_monkeys_mangabeys",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/twelve_monkeys_mangabeys_1200x1200.png"
+    },
+    "category": "E-liquides",
+    "stock": 100
+  },
+  {
+    "name": "Halo SubZero",
+    "price": 18.99,
+    "description": "E-liquide ultra mentholé pour une sensation de fraîcheur intense. Parfait pour les amateurs de menthol.",
+    "rating": 4.6,
+    "images": {
+      "public_id": "products/halo_subzero",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/halo_subzero_1200x1200.png"
+    },
+    "category": "E-liquides",
+    "stock": 300
+  },
+  {
+    "name": "Pachamama Fuji Apple",
+    "price": 20.99,
+    "description": "Un e-liquide fruité avec des notes de pomme Fuji, de fraise et de nectar de pêche, idéal pour une vape douce et fruitée.",
+    "rating": 4.7,
+    "images": {
+      "public_id": "products/pachamama_fuji_apple",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/pachamama_fuji_apple_1200x1200.png"
+    },
+    "category": "E-liquides",
+    "stock": 250
+  },
+  {
+    "name": "Vampire Vape Heisenberg",
+    "price": 21.99,
+    "description": "Un e-liquide emblématique avec un mélange de baies fruitées et une touche de fraîcheur mentholée, idéal pour une vape all-day.",
+    "rating": 4.9,
+    "images": {
+      "public_id": "products/vampire_vape_heisenberg",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/vampire_vape_heisenberg_1200x1200.png"
+    },
+    "category": "E-liquides",
+    "stock": 180
+  },
+  {
+    "name": "Sony VTC5A 18650 Battery",
+    "price": 9.99,
+    "description": "Batterie Sony VTC5A 18650 avec une capacité de 2600mAh et un courant de décharge de 35A. Parfait pour les mods haute puissance.",
+    "rating": 4.8,
+    "images": {
+      "public_id": "products/sony_vtc5a_battery",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/sony_vtc5a_battery_1200x1200.png"
+    },
+    "category": "Acessoires",
+    "stock": 500
+  },
+  {
+    "name": "Nitecore Intellicharger i4",
+    "price": 24.99,
+    "description": "Chargeur intelligent pour batteries avec 4 emplacements, compatible avec une large gamme de types de batteries, dont les 18650.",
+    "rating": 4.7,
+    "images": {
+      "public_id": "products/nitecore_intellicharger_i4",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/nitecore_intellicharger_i4_1200x1200.png"
+    },
+    "category": "Acessoires",
+    "stock": 200
+  },
+  {
+    "name": "Cotton Bacon V2",
+    "price": 5.99,
+    "description": "Mèche en coton organique de haute qualité pour reconstruire vos résistances. Conçu pour une absorption rapide et un goût pur.",
+    "rating": 4.9,
+    "images": {
+      "public_id": "products/cotton_bacon_v2",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/cotton_bacon_v2_1200x1200.png"
+    },
+    "category": "Acessoires",
+    "stock": 400
+  },
+  {
+    "name": "Coil Master DIY Kit V3",
+    "price": 39.99,
+    "description": "Kit complet pour la construction de résistances, comprenant des outils de haute qualité pour un montage précis et efficace.",
+    "rating": 4.8,
+    "images": {
+      "public_id": "products/coil_master_diy_kit_v3",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/coil_master_diy_kit_v3_1200x1200.png"
+    },
+    "category": "Acessoires",
+    "stock": 150
+  },
+  {
+    "name": "GeekVape Zeus Mesh Coils",
+    "price": 14.99,
+    "description": "Résistances de rechange en mesh pour le réservoir Zeus Sub-Ohm de GeekVape, offrant une saveur exceptionnelle et une longue durée de vie.",
+    "rating": 4.7,
+    "images": {
+      "public_id": "products/geekvape_zeus_mesh_coils",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/geekvape_zeus_mesh_coils_1200x1200.png"
+    },
+    "category": "Acessoires",
+    "stock": 300
+  },
+  {
+    "name": "SMOK TFV18 Replacement Glass",
+    "price": 7.99,
+    "description": "Tube en verre de remplacement pour le réservoir TFV18 de SMOK. Résistant et facile à installer, conçu pour une grande contenance de liquide.",
+    "rating": 4.6,
+    "images": {
+      "public_id": "products/smok_tfv18_replacement_glass",
+      "url": "https://cdn.shopify.com/s/files/1/0048/0273/3057/products/smok_tfv18_replacement_glass_1200x1200.png"
+    },
+    "category": "Acessoires",
+    "stock": 250
+  }
+]
