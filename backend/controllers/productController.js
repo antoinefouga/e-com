@@ -4,9 +4,13 @@ const APIFeatures = require("../utils/apiFeatures");
 
 // get all products => api/v1/products
 exports.getProducts = async (req, res, next) => {
+  const resultPerPage = 4;
+  const productCount = await Product.countDocuments();
+
   const apiFeatures = new APIFeatures(Product.find(), req.query)
     .search()
-    .filter();
+    .filter()
+    .pagination(resultPerPage);
 
   try {
     const products = await apiFeatures.query;
@@ -15,6 +19,7 @@ exports.getProducts = async (req, res, next) => {
       success: true,
       message: "Cette route affiche tous les produits dans la base de données",
       count: products.length,
+      productCount,
       products,
     });
   } catch (error) {
